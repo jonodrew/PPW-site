@@ -1,0 +1,78 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+color: #333366;
+font-size: 80px;
+font-weight: bold;
+}
+
+p {
+font-size: 18px;
+color: #000;
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  margin-bottom: 20px;
+}
+ul {
+  list-style: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  color: #000;
+}
+ul li {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  padding-right: 30px;
+
+}
+ul li a {
+  display: block;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  color: #000;
+}
+
+ul li ul.dropdown {
+  min-width: 125px; /* Set width of the dropdown */
+  display: none;
+  position: absolute;
+  z-index: 999;
+  left: -30;
+  background: #fff;
+}
+ul li:hover ul.dropdown {
+  display: block;	/* Display the dropdown */
+}
+ul li ul.dropdown li {
+  display: block;
+}
+
+.jumbotron {
+  background-image: url(../../images/kids-having-fun.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+}
+
+.jumbotron p {
+  color: #fff;
+  font-size: 26px;
+}
