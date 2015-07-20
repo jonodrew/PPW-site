@@ -3,8 +3,6 @@ body {
 }
 
 h1 {
-color: #333366;
-font-size: 80px;
 font-weight: bold;
 }
 
@@ -42,11 +40,11 @@ ul li a {
 }
 
 ul li ul.dropdown {
-  min-width: 125px; /* Set width of the dropdown */
+  min-width: 250px; /* Set width of the dropdown */
   display: none;
   position: absolute;
   z-index: 999;
-  left: -30;
+  left: 30;
   background: #fff;
 }
 ul li:hover ul.dropdown {
@@ -70,6 +68,7 @@ ul li ul.dropdown li {
 
 .jumbotron h1 {
   color: #fff;
+  font-size: 100px;
 }
 
 .jumbotron p {
