@@ -31,6 +31,7 @@
              <div class="col-xs-6 col-sm-4"><img src="/images/pwcouncil.png" class="img-responsive"></div>
              <div class="col-xs-6 col-sm-4"><img src="/images/mack.png" class="img-responsive"></div>
            </div>
+         </div>
 
 </div>
 </div>
