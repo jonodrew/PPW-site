@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<link rel="icon" href="../favicon.png" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Play Paddock Wood">
@@ -19,7 +19,7 @@
    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,800,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="../../dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../dist/css/main.css?v=1.5">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="../dist/js/bootstrap.js"></script>
