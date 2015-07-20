@@ -30,7 +30,7 @@ include('head.php');
         <p>I have been the Treasurer for Play Paddock Wood since we started in November 2009. I have over 20 years of finance experience, I am a licensed Member in Practice of the Association of Accounting Technicians, and I run my own practice from my home in Paddock Wood. I have lived here for over 7 years with my husband Mark and our son Jack, who attends Paddock Wood Primary. I enjoy working with such a great group of people to make a real difference in our community, and I am proud of everything we have achieved.</p>
       </div>
       <div class="col-md-3 col-xs-5">
-        <img src="/images/butterfly.png" class="img-circle">
+        <img src="/images/Claire-Holly.jpg" class="img-circle">
       </div>
     </div>
     <div class="row">
