@@ -39,25 +39,6 @@ ul li a {
   color: #000;
 }
 
-ul li ul.dropdown {
-  min-width: 250px; /* Set width of the dropdown */
-  display: none;
-  position: absolute;
-  z-index: 999;
-  left: 30;
-  background: #fff;
-}
-ul li:hover ul.dropdown {
-  display: block;	/* Display the dropdown */
-}
-ul li ul.dropdown li {
-  display: block;
-}
-
-ul li ul.dropdown li a {
-  font-size: 20px;
-}
-
 .jumbotron {
   background-image: url(../../images/kids-having-fun.jpg);
   height: 500px;
