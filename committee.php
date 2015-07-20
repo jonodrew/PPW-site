@@ -52,7 +52,7 @@ include('head.php');
         <img src="/images/butterfly.png" class="img-thumbnail">
       </div>
       <div class="col-md-3 col-xs-4">
-        <img src="/images/butterfly.png" class="img-thumbnail">
+        <img src="/images/marie.jpg" class="img-thumbnail">
       </div>
       <div class="col-md-3 col-xs-4">
         <img src="/images/butterfly.png" class="img-thumbnail">
