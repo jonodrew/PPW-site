@@ -11,4 +11,6 @@ include('head.php');
   </div>
 </div>
 
+<h1>We make things better</h1>
+
 <?php include("footer.php"); ?>
