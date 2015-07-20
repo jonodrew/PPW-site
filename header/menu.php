@@ -11,7 +11,7 @@
 </div>
 
 <div class="nav">
-<div class="container">
+<div class="container-fluid">
 <ul>
 	<ul class="pull-left">
 		<li><a href="/index.php"><img height="110" src="../logos/ppw_colour.png" width="150" /></a></li>
@@ -21,8 +21,8 @@
 		<li><a href="#">Achievements</a></li>
 		<li><a href="#">Looking Ahead</a></li>
 		<li><a href="#">Carnival</a></li>
-		<li><a href="#">Picnic in the Park
-	</li>
+		<li><a href="#">Picnic in the Park</a></li>
+		<li><a href="/play-areas.php">Play Areas</a></li>
 </ul>
 </div>
 </div>
