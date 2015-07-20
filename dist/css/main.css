@@ -28,14 +28,14 @@ ul li {
   display: inline-block;
   position: relative;
   text-align: left;
-  padding-right: 30px;
+  padding-right: 15px;
 
 }
 ul li a {
   display: block;
   text-decoration: none;
   font-family: 'Open Sans', sans-serif;
-  font-size: 24px;
+  font-size: 18px;
   color: #000;
 }
 
@@ -52,6 +52,10 @@ ul li:hover ul.dropdown {
 }
 ul li ul.dropdown li {
   display: block;
+}
+
+ul li ul.dropdown li a {
+  font-size: 20px;
 }
 
 .jumbotron {
