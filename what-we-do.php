@@ -3,7 +3,6 @@ $pageTitle = 'What We Do';
 include('head.php');
 ?>
 
-sdjhfskjhdfkjs
 <div id="header"></div>
 
 <div class="banner">
