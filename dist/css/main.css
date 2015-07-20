@@ -14,8 +14,8 @@ color: #000;
 }
 
 h2{
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
@@ -91,6 +91,7 @@ ul li a {
 
 .officers h2 {
   text-align: left;
+  margin-bottom: 0px;
 }
 
 .img-thumbnail, .img-rounded, .img-circle {
