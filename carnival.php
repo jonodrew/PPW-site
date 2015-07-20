@@ -11,3 +11,5 @@ include('head.php');
     <h1>Carnival</h1>
   </div>
 </div>
+
+<?php include("footer.php"); ?>
