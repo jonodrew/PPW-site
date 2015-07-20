@@ -29,8 +29,8 @@
              <div class="clearfix visible-xs-block"></div>
              <div class="col-xs-6 col-sm-4"><img src="/images/botanix.jpg" class="img-responsive"></div>
              <div class="col-xs-6 col-sm-4"><img src="/images/pwcouncil.png" class="img-responsive"></div>
-             <div class="col-xs-6 col-sm-4"><img src="/images/mack.gif" class="img-responsive"></div>
-           </div> 
+             <div class="col-xs-6 col-sm-4"><img src="/images/mack.png" class="img-responsive"></div>
+           </div>
 
 </div>
 </div>
