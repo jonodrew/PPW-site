@@ -1,6 +1,6 @@
 <div class="footer">
 <header>
-	<div class=container-fluid>
+	<div class="container-fluid">
 		<ul>
 			<ul class="pull-right">
 				<li><a href="https://www.facebook.com/groups/216112215097879/?fref=ts"><img src="/images/Facebook.png" class="img-rounded"></a></li>
