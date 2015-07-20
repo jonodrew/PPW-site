@@ -4,6 +4,8 @@ body {
 
 h1 {
 font-weight: bold;
+color: #fff;
+font-size: 48px;
 }
 
 p {
@@ -58,4 +60,7 @@ ul li a {
 
 .about-us .container {
   background: #f2f2f2;
+}
+.banner {
+  background: #4c90e5;
 }
