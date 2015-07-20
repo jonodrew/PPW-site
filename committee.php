@@ -17,7 +17,7 @@ include('head.php');
     <div class="container-fluid">
     <div class="row">
       <div class="col-md-3 col-xs-5">
-        <img src="/images/butterfly.png" class="img-thumbnail">
+        <img src="/images/butterfly.png" class="img-circle">
       </div>
       <div class="col-md-8 col-xs-11">
         <h2>Kay Groves: Chair</h2><br>
@@ -35,7 +35,7 @@ include('head.php');
     </div>
     <div class="row">
       <div class="col-md-3 col-xs-5">
-        <img src="/images/butterfly.png" class="img-thumbnail">
+        <img src="/images/butterfly.png" class="img-circle">
       </div>
       <div class="col-md-8 col-xs-11">
         <h2>Wendy Kent: Secretary</h2><br>
@@ -49,16 +49,16 @@ include('head.php');
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-3 col-xs-4">
-        <img src="/images/butterfly.png" class="img-thumbnail">
+        <img src="/images/butterfly.png" class="img-circle">
       </div>
       <div class="col-md-3 col-xs-4">
-        <img src="/images/marie.jpg" class="img-thumbnail">
+        <img src="/images/marie.jpg" class="img-rounded">
       </div>
       <div class="col-md-3 col-xs-4">
-        <img src="/images/butterfly.png" class="img-thumbnail">
+        <img src="/images/butterfly.png" class="img-circle">
     </div>
       <div class="col-md-3 col-xs-4">
-        <img src="/images/butterfly.png" class="img-thumbnail">
+        <img src="/images/butterfly.png" class="img-circle">
       </div>
   </div>
   <div class="row">
@@ -82,16 +82,16 @@ include('head.php');
   <div class="bottom-row">
   <div class="row">
     <div class="col-md-3 col-xs-4">
-      <img src="/images/butterfly.png" class="img-thumbnail">
+      <img src="/images/butterfly.png" class="img-circle">
     </div>
     <div class="col-md-3 col-xs-4">
-      <img src="/images/butterfly.png" class="img-thumbnail">
+      <img src="/images/butterfly.png" class="img-circle">
     </div>
     <div class="col-md-3 col-xs-4">
-      <img src="/images/butterfly.png" class="img-thumbnail">
+      <img src="/images/butterfly.png" class="img-circle">
     </div>
     <div class="col-md-3 col-xs-4">
-      <img src="/images/butterfly.png" class="img-thumbnail">
+      <img src="/images/butterfly.png" class="img-circle">
     </div>
   </div>
   <div class="row">
@@ -100,7 +100,7 @@ include('head.php');
       <h3><em>Title</em></h3>
     </div>
     <div class="col-md-3 col-xs-4">
-      <h2>David Sargasson<br></h2>
+      <h2>David Sargisson<br></h2>
       <h3><em>Title</em></h3>
     </div>
     <div class="col-md-3 col-xs-4">
@@ -116,6 +116,4 @@ include('head.php');
 </div>
 </div>
 
-
-</body>
-</html>
+<?php include("footer.php"); ?>

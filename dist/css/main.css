@@ -77,6 +77,11 @@ ul li a {
   overflow:hidden;
   border-radius:50%;
 }
+.img-rounded {
+  height:200px;
+  width:200px;
+  overflow:hidden;
+}
 .officers {
   display: block;
   margin-bottom: 30px;
@@ -88,11 +93,29 @@ ul li a {
   text-align: left;
 }
 
-.img-thumbnail {
+.img-thumbnail, .img-rounded, .img-circle {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 .bottom-row {
   margin-top: 50px;
+}
+footer ul {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+footer .container-fluid {
+  background: #427dc7;
+}
+footer li a {
+  color: #fff;
+}
+footer .img-rounded {
+  height:30px;
+  width:30px;
+  overflow:hidden;
+  display: inline-block;
+  vertical-align: middle;
+
 }
