@@ -71,7 +71,6 @@ ul li ul.dropdown li {
   font-size: 100px;
 }
 
-.jumbotron p {
-  color: #fff;
-  font-size: 26px;
+.about-us .container {
+  background: #f2f2f2;
 }
