@@ -3,7 +3,7 @@
 <ul>
 	<ul class="pull-left">
 		<li><a href="/index.php"><img height="110" src="../logos/ppw_colour.png" width="150" /></a></li>
-		<li><a href="/index.php" target="newtab">Home</a></li>
+		<li><a href="/index.php">Home</a></li>
 		<li><a href="/committee.php">Committee</a></li>
 		<li><a href="#">What We Do</a></li>
 		<li><a href="#">Achievements</a></li>
