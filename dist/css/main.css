@@ -54,6 +54,10 @@ ul li ul.dropdown li {
   display: block;
 }
 
+ul li ul.dropdown li a {
+  font-size: 20px;
+}
+
 .jumbotron {
   background-image: url(../../images/kids-having-fun.jpg);
   height: 500px;
@@ -71,7 +75,6 @@ ul li ul.dropdown li {
   font-size: 100px;
 }
 
-.jumbotron p {
-  color: #fff;
-  font-size: 26px;
+.about-us .container {
+  background: #f2f2f2;
 }

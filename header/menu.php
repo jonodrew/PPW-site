@@ -13,7 +13,7 @@
 				<li><a href="#">Looking Ahead</a></li>
 			</ul>
 		</li>
-		<li><a href="#" target=newtab>Carnival</a></li>
+		<li><a href="#">Carnival</a></li>
 		<li><a href="#">Picnic in the Park
 	</li>
 </ul>
