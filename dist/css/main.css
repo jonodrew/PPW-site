@@ -106,17 +106,19 @@ footer ul {
   margin-top: 5px;
   margin-bottom: 15px;
 }
-footer .container-fluid {
+.footer .container-fluid {
   background: #427dc7;
 }
+
 footer li a {
   color: #fff;
 }
-footer .img-rounded {
+.footer .img-rounded {
   height:30px;
   width:30px;
   overflow:hidden;
   display: inline-block;
   vertical-align: middle;
+  margin-top: 10px;
 
 }
