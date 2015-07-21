@@ -12,7 +12,7 @@ include('head.php');
 </div>
 </div>
 
-<div class="officers">
+<div id="officers">
 
     <div class="container-fluid">
     <div class="row">

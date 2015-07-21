@@ -64,8 +64,9 @@ ul li a {
   font-size: 100px;
 }
 
-.about-us .container {
+.sponsors .container {
   background: #f2f2f2;
+  margin-top: 30px;
 }
 .banner {
   background: #4c90e5;
@@ -82,14 +83,14 @@ ul li a {
   width:200px;
   overflow:hidden;
 }
-.officers {
+#officers {
   display: block;
   margin-bottom: 30px;
   margin-left: auto;
   margin-right: auto;
 }
 
-.officers h2 {
+#officers h2 {
   text-align: left;
   margin-bottom: 0px;
 }
@@ -120,4 +121,20 @@ footer li a {
   display: inline-block;
   vertical-align: middle;
   margin-top: 10px;
+}
+.about-us .img-rounded {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  padding: 4px;
+  line-height: 1.42857143;
+  -webkit-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  margin-right: 5px;
+}
+.about-us h2 {
+  text-align: left;
+  margin-bottom: auto;
 }
