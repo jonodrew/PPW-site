@@ -46,7 +46,7 @@ ul li a {
   font-size: 18px;
   color: #000;
 }
-/*all of this is for the dropdown*/
+
 
 ul li a:hover{
 
@@ -54,7 +54,7 @@ ul li a:hover{
   text-decoration: none;
 
 }
-
+/*all of this is for the dropdown*/
 ul li ul.dropdown{
 
   min-width: 8em; /* Set width of the dropdown */
@@ -86,9 +86,11 @@ ul li ul.dropdown li{
   position: relative;
   list-style: none;
   padding: 0;
-
 }
-
+.dropdown li a:hover {
+  background: #2230bb;
+  opacity: 1;
+}
 .jumbotron {
   background-image: url(../../images/kids-having-fun.jpg);
   height: 500px;
