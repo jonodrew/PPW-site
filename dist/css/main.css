@@ -35,8 +35,8 @@ ul {
 ul li {
   display: inline-block;
   position: relative;
-  text-align: left;
-  padding-right: 15px;
+  text-align: center;
+  padding-left: 15px;
 
 }
 ul li a {
@@ -47,6 +47,7 @@ ul li a {
   color: #000;
 }
 /*all of this is for the dropdown*/
+
 ul li a:hover{
 
   color: #000;
@@ -56,7 +57,7 @@ ul li a:hover{
 
 ul li ul.dropdown{
 
-  min-width: 10em; /* Set width of the dropdown */
+  min-width: 8em; /* Set width of the dropdown */
 
   background: #fff;
   opacity: 0.7;
@@ -64,6 +65,7 @@ ul li ul.dropdown{
 
   position: absolute;
   left: 0;
+  right: 15;
   padding: 15px;
 
 
