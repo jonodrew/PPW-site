@@ -122,6 +122,7 @@ footer li a {
   vertical-align: middle;
   margin-top: 10px;
 }
+
 .about-us .img-rounded {
   display: inline-block;
   max-width: 100%;
@@ -137,4 +138,10 @@ footer li a {
 .about-us h2 {
   text-align: left;
   margin-bottom: auto;
+}
+.play-areas .row {
+  overflow: hidden;
+  height: 350px;
+  margin-bottom: 50px;
+
 }
