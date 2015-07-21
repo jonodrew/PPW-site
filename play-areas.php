@@ -15,14 +15,24 @@ include('head.php');
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-6 col-xs-9">
-        <a href="/index.php">
+        <a href="/play-areas/st-andrews.php">
           <img src="/images/andrews-boat-2.png" class="img-responsive"></a>
       </div>
       <div class="col-md-6 col-xs-9">
-        <a href="/index.php">
+        <a href="/play-areas/moletrap.php">
           <img src="/images/skatepark-2.png" class="img-responsive"></a>
         </div>
     </div>
+    <div class="row">
+      <div class="col-md-6 col-xs-9">
+        <a href="/play-areas/fuggles.php">
+          <img src="/images/fuggles.png" class="img-responsive"></a>
+        </div>
+        <div class="col-md-6 col-xs-9">
+          <a href="/play-areas/green-lane.php">
+            <img src="/images/skatepark-2.png" class="img-responsive"></a>
+          </div>
+        </div>
   </div>
 </div>
 
