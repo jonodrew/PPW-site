@@ -22,7 +22,13 @@
 		<li><a href="looking-ahead.php">Looking Ahead</a></li>
 		<li><a href="/carnival.php">Carnival</a></li>
 		<li><a href="/picnic.php">Picnic in the Park</a></li>
-		<li><a href="/play-areas.php">Play Areas</a></li>
+		<li><a href="/play-areas.php">Play Areas</a>
+		<ul class="dropdown">
+			<li><a href="../play-areas/st-andrews.php">St Andrews Park</a></li>
+			<li><a href="../play-areas/fuggles.php">Fuggles Park</a></li>
+			<li><a href="../play-areas/moletrap.php">Moletrap Skatepark</a></li>
+			<li><a href="../play-areas/st-andrews.php">St Andrews Park</a></li>
+		</li>
 </ul>
 </div>
 </div>
