@@ -12,6 +12,14 @@ include('head.php');
   </div>
 </div>
 
-<h1>So what's next? We've got more spaces to work on, of course!</h2>
+<div id="content">
+  <div class="container-fluid">
+      <h2>So what's next?</h2> <p>We've got more spaces to work on, of course!<br>
+Our next target is the Memorial Ground on Maidstone Road. It's a space that desperately needs to be renovated, and we've got big plans.</p>
+  </div>
+  
+
+
+</div>
 
 <?php include("footer.php"); ?>

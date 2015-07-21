@@ -16,7 +16,7 @@ color: #000;
 h2{
   margin-top: 10px;
   margin-bottom: 20px;
-  text-align: center;
+  text-align: left;
 }
 
 h3 {
@@ -131,7 +131,6 @@ ul li ul.dropdown li{
 }
 
 #officers h2 {
-  text-align: left;
   margin-bottom: 0px;
 }
 
@@ -176,12 +175,13 @@ footer li a {
   margin-right: 5px;
 }
 .about-us h2 {
-  text-align: left;
   margin-bottom: auto;
 }
 .play-areas .row {
   overflow: hidden;
   height: 350px;
   margin-bottom: 50px;
-
+}
+.members h2 {
+  text-align: center;
 }
