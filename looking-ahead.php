@@ -14,10 +14,15 @@ include('head.php');
 
 <div id="content">
   <div class="container-fluid">
+    <div class="col-xs-14 col-md-9">
+    <img src="/images/memorial.png" class="img-responsive">
+    </div>
+      <div class="col-xs-4 col-md-3">
       <h2>So what's next?</h2> <p>We've got more spaces to work on, of course!<br>
 Our next target is the Memorial Ground on Maidstone Road. It's a space that desperately needs to be renovated, and we've got big plans.</p>
+</div>
   </div>
-  
+
 
 
 </div>

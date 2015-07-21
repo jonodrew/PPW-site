@@ -67,8 +67,6 @@ ul li ul.dropdown{
   left: 0;
   right: 15;
   padding: 15px;
-
-
 }
 
 ul li:hover ul.dropdown{
@@ -76,7 +74,6 @@ ul li:hover ul.dropdown{
   display: block; /* Display the dropdown */
   right: auto;
   left: -100;
-
 }
 
 ul li ul.dropdown li{
@@ -188,4 +185,7 @@ footer li a {
 }
 .members h2 {
   text-align: center;
+}
+#content img {
+  height: 50em;
 }
