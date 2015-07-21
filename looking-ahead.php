@@ -12,5 +12,6 @@ include('head.php');
   </div>
 </div>
 
+<h1>So what's next? We've got more spaces to work on, of course!</h2>
 
 <?php include("footer.php"); ?>
