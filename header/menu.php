@@ -17,11 +17,11 @@
 		<li><a href="/index.php"><img height="110" src="../logos/ppw_colour.png" width="150" /></a></li>
 		<li><a href="/index.php">Home</a></li>
 		<li><a href="/committee.php">Committee</a></li>
-		<li><a href="/what-we-do.php">What We Do</a></li>
+		<!--<li><a href="/what-we-do.php">What We Do</a></li>
 		<li><a href="/achievements.php">Achievements</a></li>
 		<li><a href="looking-ahead.php">Looking Ahead</a></li>
 		<li><a href="/carnival.php">Carnival</a></li>
-		<li><a href="/picnic.php">Picnic in the Park</a></li>
+		<li><a href="/picnic.php">Picnic in the Park</a></li>-->
 		<li><a href="/play-areas.php">Play Areas</a>
 		<ul class="dropdown">
 			<li><a href="../play-areas/st-andrews.php">St Andrews Park</a></li>
