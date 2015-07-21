@@ -19,6 +19,6 @@ We reached out to our local community, asked them what they want, and then we di
 
 It's not rocket science.<br>
 
-Just as well, really.</h2>
+(Just as well, really.)</h2>
 
 <?php include("footer.php"); ?>

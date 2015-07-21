@@ -22,7 +22,7 @@
 		<li><a href="looking-ahead.php">Looking Ahead</a></li>
 		<li><a href="/carnival.php">Carnival</a></li>
 		<li><a href="/picnic.php">Picnic in the Park</a></li>
-		<li><a href="/play-area.php">Play Areas</a></li>
+		<li><a href="/play-areas.php">Play Areas</a></li>
 </ul>
 </div>
 </div>
