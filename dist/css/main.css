@@ -121,3 +121,8 @@ footer li a {
   vertical-align: middle;
   margin-top: 10px;
 }
+.play-areas {
+  overflow: hidden;
+  height: 350px;
+  margin-bottom: 50px;
+}

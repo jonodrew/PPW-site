@@ -11,6 +11,19 @@ include('head.php');
   </div>
 </div>
 
-<h1>List of play areas</h1>
+<div class="play-areas">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6 col-xs-9">
+        <a href="/index.php">
+          <img src="/images/andrews-boat-2.png" class="img-responsive"></a>
+      </div>
+      <div class="col-md-6 col-xs-9">
+        <a href="/index.php">
+          <img src="/images/skatepark-2.png" class="img-responsive"></a>
+        </div>
+    </div>
+  </div>
+</div>
 
 <?php include("footer.php"); ?>
