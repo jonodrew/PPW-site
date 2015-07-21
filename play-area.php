@@ -11,6 +11,6 @@ include('head.php');
   </div>
 </div>
 
-<h1>Listof play areas</h1>
+<h1>List of play areas</h1>
 
 <?php include("footer.php"); ?>
