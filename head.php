@@ -20,12 +20,13 @@
     <link rel="stylesheet" type="text/css" href="../../dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../dist/css/main.css?v=1.5">
 
-    <link href="../../dist/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
+    <link href="../dist/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="../dist/js/bootstrap.js"></script>
-    <script src="../..dist/js/jquery.mmenu.min.js" type="text/javascript"></script>
+    <script src="../dist/js/jquery.mmenu.min.js" type="text/javascript"></script>
+
 
 
     <script>
@@ -44,6 +45,20 @@
       $("#header").load("../header/menu.php");
     });
     </script>
+    
+    <script>
+    $(document).ready(function() {
+      $("#my-menu").mmenu({
+        // Options
+      });
+      var API = $("#my-menu").data( "mmenu" );
+
+      $("#my-button").click(function() {
+        API.open();
+      });
+    });
+    </script>
 
 </head>
 <body>
+  <div>

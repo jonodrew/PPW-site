@@ -1,4 +1,3 @@
-<div>
 <div class="footer">
 <header>
 	<div class="container-fluid">
@@ -15,9 +14,8 @@
 
 <div class="nav">
 <div class="container-fluid">
-<ul>
 	<ul class="pull-left">
-		<li><a href="/index.php"><img height="110" src="../logos/ppw_colour.png" width="150" /></a></li>
+		<li><a href="#my-menu"><img height="110" src="../logos/ppw_colour.png" width="150" /></a></li>
 		<li><a href="/index.php">Home</a></li>
 		<li><a href="/committee.php">Committee</a></li>
 		<li><a href="/what-we-do.php">What We Do</a></li>
@@ -32,6 +30,7 @@
 			<li><a href="../play-areas/moletrap.php">Moletrap Skatepark</a></li>
 			<li><a href="../play-areas/st-andrews.php">St Andrews Park</a></li>
 		</li>
+</ul>
 </ul>
 </div>
 </div>
