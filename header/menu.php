@@ -12,7 +12,7 @@
 
 
 
-<!--<div class="nav">
+<div class="nav">
 <div class="container-fluid">
 	<ul class="pull-left">
 		<li><a href="#my-menu"><img height="110" src="../logos/ppw_colour.png" width="150" /></a></li>
@@ -33,4 +33,4 @@
 </ul>
 </ul>
 </div>
-</div>-->
+</div>

@@ -198,3 +198,13 @@ footer li a {
 header li {
   float: right;
 }
+@media only screen and (max-width: 1026px) {
+  .nav, .jumbotron {
+    display: none;
+  }
+}
+@media only screen and (min-width: 1026px) {
+  #my-menu, #menu-icon {
+    display: none;
+  }
+}
