@@ -30,10 +30,12 @@
   <li><a href="/carnival.php">Carnival</a></li>
   <li><a href="/picnic.php">Picnic in the Park</a></li>
   <li><a href="/play-areas.php">Play Areas</a>
+    <ul>
       <li><a href="../play-areas/st-andrews.php">St Andrews Park</a></li>
       <li><a href="../play-areas/fuggles.php">Fuggles Park</a></li>
       <li><a href="../play-areas/moletrap.php">Moletrap Skatepark</a></li>
       <li><a href="../play-areas/st-andrews.php">St Andrews Park</a></li>
+    </ul>
     </li>
 </ul>
 </nav>
