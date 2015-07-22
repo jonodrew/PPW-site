@@ -17,8 +17,12 @@
 
 </div>
 <nav id="my-menu">
-<ul>
-
+  <ul>
+    <li>
+      <span>
+        <img height="110" src="../images/logo-trans.png" width="150" />
+      </span>
+    </li>
   <li><a href="/committee.php">Committee</a></li>
   <li><a href="/what-we-do.php">What We Do</a></li>
   <li><a href="/achievements.php">Achievements</a></li>

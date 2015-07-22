@@ -1,18 +1,18 @@
 <div class="footer">
 <header>
 	<div class="container-fluid">
-		<ul>
-			<ul class="pull-right">
-				<li><a href="https://www.facebook.com/groups/216112215097879/?fref=ts"><img src="/images/Facebook.png" class="img-rounded"></a></li>
-			</ul>
-		</ul>
+		<div id="menu-icon">
+		<a href="#my-menu"><img height="50" src="../images/off-canvas.png" width="50"></a>
+	</div>
+
+				<!--<li><a href="https://www.facebook.com/groups/216112215097879/?fref=ts"><img src="/images/Facebook.png" class="img-rounded"></a></li>-->
 </div>
 </header>
 </div>
 
 
 
-<div class="nav">
+<!--<div class="nav">
 <div class="container-fluid">
 	<ul class="pull-left">
 		<li><a href="#my-menu"><img height="110" src="../logos/ppw_colour.png" width="150" /></a></li>
@@ -33,4 +33,4 @@
 </ul>
 </ul>
 </div>
-</div>
+</div>-->
