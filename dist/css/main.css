@@ -125,7 +125,7 @@ ul li ul.dropdown li{
 .img-rounded {
   height:200px;
   width:200px;
-  overflow:hidden;
+  overflow: hidden;
 }
 #officers {
   display: block;
@@ -143,7 +143,7 @@ ul li ul.dropdown li{
   margin-left: auto;
   margin-right: auto;
 }
-.bottom-row {
+.members {
   margin-top: 50px;
 }
 footer ul {
@@ -152,6 +152,9 @@ footer ul {
 }
 .footer .container-fluid {
   background: #427dc7;
+}
+.footer header .container-fluid {
+  background: #fff
 }
 
 footer li a {
@@ -188,4 +191,20 @@ footer li a {
 }
 .members h2 {
   text-align: center;
+}
+#menu-icon {
+  margin-top: 20px;
+}
+header li {
+  float: right;
+}
+@media only screen and (max-width: 1026px) {
+  .nav, .jumbotron {
+    display: none;
+  }
+}
+@media only screen and (min-width: 1026px) {
+  #my-menu, #menu-icon, #mobile-screen-committee {
+    display: none;
+  }
 }
