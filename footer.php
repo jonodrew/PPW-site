@@ -1,3 +1,4 @@
+
 <div class="footer">
   <footer>
     <div class="container-fluid">
@@ -13,5 +14,12 @@
     </footer>
   </div>
 
+  <script>
+  <script type="text/javascript">
+  $(document).ready(function() {
+    $("#my-menu").mmenu();
+  });
+  </script>
+</div>
 </body>
 </html>

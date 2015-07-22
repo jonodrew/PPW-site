@@ -1,3 +1,4 @@
+<div>
 <div class="footer">
 <header>
 	<div class="container-fluid">
@@ -9,6 +10,8 @@
 </div>
 </header>
 </div>
+
+
 
 <div class="nav">
 <div class="container-fluid">
