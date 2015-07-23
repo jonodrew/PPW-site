@@ -225,3 +225,7 @@ header li {
   margin-left: auto;
   margin-right: auto;
 }
+#menu-icon img {
+  vertical-align:middle;
+  margin-top: auto;
+}
