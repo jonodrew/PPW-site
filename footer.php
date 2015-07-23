@@ -21,11 +21,11 @@
       </span>
     </li>
   <li><a href="/committee.php">Committee</a></li>
-  <li><a href="/what-we-do.php">What We Do</a></li>
+  <!--<li><a href="/what-we-do.php">What We Do</a></li>
   <li><a href="/achievements.php">Achievements</a></li>
   <li><a href="looking-ahead.php">Looking Ahead</a></li>
   <li><a href="/carnival.php">Carnival</a></li>
-  <li><a href="/picnic.php">Picnic in the Park</a></li>
+  <li><a href="/picnic.php">Picnic in the Park</a></li>-->
   <li><a href="/play-areas.php">Play Areas</a>
     <ul>
       <li><a href="../play-areas/st-andrews.php">St Andrews Park</a></li>
