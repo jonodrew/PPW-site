@@ -35,38 +35,38 @@ include('head.php');
   <div class="container-fluid">
     <div class="members">
       <div class="row">
-        <div class="col-md-3">
-          <img src="/images/butterfly.png" class="img-circle">
+        <div class="col-md-3 col-xs-9">
+        <img src="/images/butterfly.png" class="img-circle img-responsive">
           <h2>Jane Kerr</h2>
         </div>
-        <div class="col-md-3">
-          <img src="/images/marie.jpg" class="img-rounded" class="img-responsive">
+        <div class="col-md-3 col-xs-9">
+          <img src="/images/marie.jpg" class="img-rounded img-responsive">
           <h2>Marie Marriott</h2>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 col-xs-9">
           <img src="/images/butterfly.png" class="img-circle">
           <h2>Eileen Wilson</h2>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 col-xs-9">
           <img src="/images/butterfly.png" class="img-circle">
           <h2>Alison Robinson<br></h2>
         </div>
       </div>
       <div class="bottom-row">
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-9">
             <img src="/images/butterfly.png" class="img-circle">
             <h2>Ros Tucker<br></h2>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-9">
             <img src="/images/butterfly.png" class="img-circle">
             <h2>David Sargisson<br></h2>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-9">
             <img src="/images/butterfly.png" class="img-circle">
             <h2>Town Council<br></h2>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-9">
             <img src="/images/butterfly.png" class="img-circle">
             <h2>Town Council<br></h2>
           </div>
@@ -115,7 +115,7 @@ include('head.php');
           <h2>Jane Kerr<br></h2>
         </div>
         <div class="col-md-3">
-          <img src="/images/marie.jpg" class="img-rounded">
+          <img src="/images/marie.jpg" class="img-rounded img-responsive">
           <h2>Marie Marriott<br></h2>
         </div>
         <div class="col-md-3">
