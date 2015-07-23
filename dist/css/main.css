@@ -29,14 +29,13 @@ img {
 ul {
   list-style: none;
   font-family: 'Open Sans', sans-serif;
-  font-size: 24px;
   color: #000;
 }
 ul li {
   display: inline-block;
   position: relative;
   text-align: center;
-  padding-left: 15px;
+  padding-left: 1em;
 
 }
 ul li a {
@@ -165,14 +164,16 @@ footer ul {
   background: #427dc7;
 }
 
-
 footer li a {
   color: #fff;
-  font-size: .7em;
+  font-size: 1em;
+  margin: .1em;
 }
 .footer .img-rounded {
-  height:30px;
-  width:30px;
+  max-height:30px;
+  max-width:30px;
+  height: 2em;
+  width: 2em;
   overflow:hidden;
   display: inline-block;
   vertical-align: middle;

@@ -2,9 +2,8 @@
 <div class="footer">
   <footer>
     <div class="container-fluid">
-        <ul>
-          <ul class="pull-right">
-            <li><a href="https://www.facebook.com/groups/216112215097879/?fref=ts"><img src="/images/Facebook.png" class="img-rounded"></a></li>
+        <ul class="pull-right">
+            <li><a href="https://www.facebook.com/groups/216112215097879/?fref=ts"><img src="/images/Facebook.png" class="img-rounded img-responsive"></a></li>
             <li><a href="#">Contact us</a></li>
             <li><a href="#">&copy;Play Paddock Wood 2015</a></li>
           </div>
@@ -18,7 +17,7 @@
   <ul>
     <li>
       <span>
-        <img height="110" src="../images/logo-trans.png" width="150" />
+        <a href="/index.php"><img height="110" src="../images/logo-trans.png" width="150" /></a>
       </span>
     </li>
   <li><a href="/committee.php">Committee</a></li>
