@@ -112,6 +112,12 @@ ul li ul.dropdown li{
   background: #f2f2f2;
   margin-top: 30px;
 }
+.sponsors img {
+  max-width: 320px;
+  max-height: 180px;
+  width: 32vw;
+  height: 18vw;
+}
 .banner {
   background: #4c90e5;
   margin-bottom: 30px;
@@ -159,6 +165,7 @@ footer ul {
 
 footer li a {
   color: #fff;
+  font-size: .7em;
 }
 .footer .img-rounded {
   height:30px;
