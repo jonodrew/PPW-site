@@ -155,12 +155,10 @@ footer ul {
   margin-top: 5px;
   margin-bottom: 15px;
 }
-.footer > .container-fluid {
+.footer .container-fluid {
   background: #427dc7;
 }
-.footer header .container-fluid {
-  background: #fff
-}
+
 
 footer li a {
   color: #fff;
