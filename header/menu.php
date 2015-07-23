@@ -1,14 +1,18 @@
 <div class="footer">
 <header>
+	<div class="mobile-content">
+	<img src="../images/logo-trans.png" class="img-responsive center-block">
+</div>
 	<div class="container-fluid">
-		<div class="col-xs-2 col-sm-2">
-		<div id="menu-icon">
-		<a href="#my-menu"><img height="50" src="../images/off-canvas.png" width="50"></a>
-	</div>
-		</div>
-	<div class="col-xs-10 col-sm-2">
-		<!--<img src="../images/logo-trans.png" class="img-responsive">
-		<h1>Play Paddock Wood</h1>-->
+
+
+
+	<!--	<h1>Play Paddock Wood</h1>-->
+
+
+			<div id="menu-icon">
+				<a href="#my-menu"><img height="50" src="../images/menu-square.png" width="50"></a>
+
 	</div>			<!--<li><a href="https://www.facebook.com/groups/216112215097879/?fref=ts"><img src="/images/Facebook.png" class="img-rounded"></a></li>-->
 </div>
 </header>
@@ -30,9 +34,11 @@
 		<li><a href="/play-areas.php">Play Areas</a>
 		<ul class="dropdown">
 			<li><a href="../play-areas/st-andrews.php">St Andrews Park</a></li>
-			<li><a href="../play-areas/fuggles.php">Fuggles Park</a></li>
+			<li><a href="../play-areas/fuggles.php">Fuggles Close</a></li>
 			<li><a href="../play-areas/moletrap.php">Moletrap Skatepark</a></li>
-			<li><a href="../play-areas/st-andrews.php">St Andrews Park</a></li>
+			<li><a href="../play-areas/st-andrews.php">Memorial Ground</a></li>
+			<li><a href="../play-areas/memorial.php">Memorial Ground</a></li>
+			<li><a href="../play-areas/green-lane.php">Green Lane Park</a></li>
 		</li>
 </ul>
 </ul>
