@@ -5,7 +5,7 @@ body {
 h1 {
 font-weight: bold;
 color: #fff;
-font-size: 64px;
+font-size: 11vh;
 }
 
 p {
@@ -128,7 +128,7 @@ ul li ul.dropdown li{
   overflow:hidden;
   border-radius:50%;
 }
-.img-rounded {
+#officers > .img-rounded {
   height:200px;
   width:200px;
   overflow: hidden;
@@ -148,6 +148,11 @@ ul li ul.dropdown li{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width:50vh;
+  height:50vh;
+  max-height:200px;
+  max-width:200px;
+  overflow: hidden;
 }
 .members {
   margin-top: 50px;
@@ -159,9 +164,7 @@ footer ul {
 .footer .container-fluid {
   background: #427dc7;
 }
-.footer header .container-fluid {
-  background: #fff
-}
+
 
 footer li a {
   color: #fff;
@@ -206,12 +209,27 @@ header li {
   float: right;
 }
 @media only screen and (max-width: 1026px) {
-  .nav, .jumbotron {
+  .nav, .jumbotron, .desktop-content {
     display: none;
   }
 }
 @media only screen and (min-width: 1026px) {
-  #my-menu, #menu-icon, #mobile-screen-committee {
+  #my-menu, #menu-icon, .mobile-content {
     display: none;
   }
+}
+.img-responsive {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: @screen-xs) {
+  body{font-size: 10px;}
+  h1{font-size: 300em;}
+}
+
+@media (min-width: @screen-sm) {
+  body{font-size: 14px;}
+  h1{font-size: 5em;}
 }
