@@ -1,11 +1,15 @@
 <div class="footer">
 <header>
 	<div class="container-fluid">
+		<div class="col-xs-2 col-sm-2">
 		<div id="menu-icon">
 		<a href="#my-menu"><img height="50" src="../images/off-canvas.png" width="50"></a>
 	</div>
-
-				<!--<li><a href="https://www.facebook.com/groups/216112215097879/?fref=ts"><img src="/images/Facebook.png" class="img-rounded"></a></li>-->
+		</div>
+	<div class="col-xs-10 col-sm-2">
+		<img src="../images/logo-trans.png" class="img-responsive">
+		<!--<h1>Play Paddock Wood</h1>-->
+	</div>			<!--<li><a href="https://www.facebook.com/groups/216112215097879/?fref=ts"><img src="/images/Facebook.png" class="img-rounded"></a></li>-->
 </div>
 </header>
 </div>

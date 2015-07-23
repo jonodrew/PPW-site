@@ -225,12 +225,3 @@ header li {
   margin-left: auto;
   margin-right: auto;
 }
-@media (max-width: @screen-xs) {
-  body{font-size: 10px;}
-  h1{font-size: 300em;}
-}
-
-@media (min-width: @screen-sm) {
-  body{font-size: 14px;}
-  h1{font-size: 5em;}
-}
