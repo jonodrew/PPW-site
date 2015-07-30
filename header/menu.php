@@ -23,7 +23,7 @@
 <div class="nav">
 <div class="container-fluid">
 	<ul class="pull-left">
-		<img height="150" src="../logos/ppw_colour.png" width="150" />
+		<img height="250" src="../logos/ppw_colour.png" width="250" />
 		<li><a href="/index.php">Home</a></li>
 		<li><a href="/committee.php">Committee</a></li>
 		<li><a href="/what-we-do.php">What We Do</a></li>
